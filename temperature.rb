@@ -1,3 +1,5 @@
+Hey Noelle! Great program!
+
 # todays_temperature = 80
 
 # if todays_temperature !> 50
